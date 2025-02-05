@@ -1,0 +1,39 @@
+.menu-personalizado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+.menu-personalizado .logo {
+    height: 50px;
+}
+
+.menu-lista {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.menu-lista li {
+    margin-left: 20px;
+}
+
+.menu-lista a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu-lista a:hover {
+    text-decoration: underline;
+}
+
+.container {
+   
+    max-width: 1200px;;
+    margin: 0 auto;
+    padding: 0 20px;
+}
