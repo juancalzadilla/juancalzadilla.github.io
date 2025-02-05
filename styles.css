@@ -35,10 +35,37 @@
 .menu-lista a:hover {
     text-decoration: underline;
 }
+.banner-principal {
+    background-color: #000000;
+    padding: 200px 0;
+    text-align: left;
+    color: white;
+}
+
+.banner-principal .container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.banner-text, .imagen-banner {
+    flex: 1;
+    max-width: 50%;
+}
+
+.imagen-banner img {
+    max-width: 70%;
+    height: auto;
+}
 
 .container {
    
     max-width: 1200px;;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+.banner-text h1 {
+    font-size: 55px;
+    margin-bottom: 10px;
 }
