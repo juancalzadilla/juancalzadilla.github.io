@@ -1,3 +1,5 @@
-# Mi sitio web
+# juancalzadilla.github.io
 
-Bienvenidos a la liberia de mi sitio web, con el que estaré trabajando para que el código del mismo sea abierto y dar a conocer las prácticas que tengo con base a mi desarrollo del mismo. Es importante aclarar, que compartiré la documentacion en español porque quiero impulsar el uso de herramientas para la comunidad de hablahispana. 
+Página de presentación de Juan Calzadilla publicada con GitHub Pages. Es una tarjeta estática en HTML y CSS que dirige a la web principal, [jcalzadilla.com](https://jcalzadilla.com/).
+
+Las rutas antiguas (`/sobre-mi/`, `/servicios/`, `/contacto/`) y cualquier dirección inexistente redirigen a jcalzadilla.com.
